@@ -1,0 +1,2 @@
+# Remote-Build-Server
+Integrated the above-mentioned Core Build Server into a system which has a federation of standalone servers implementing the Process Pool mechanism where we the client can choose the number of builder processes to be run in parallel and build multiple build requests thus increasing the efficiency of the automation process. We can access the Build server from any internet enabled processor
